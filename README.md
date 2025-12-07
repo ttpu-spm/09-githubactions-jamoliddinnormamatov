@@ -31,7 +31,7 @@ This assignment introduces you how to use **_Github Actions_**, **_Testing with 
 _Here you should put the URL of your final repository after finishing the given tutorial_
 
 1. Hello GitHub Actions: _REPO LINK 1_
-2. Test with Actions: _REPO LINK 2_
+2. Test with Actions: [_REPO LINK 2_](https://github.com/jamoliddinnormamatov/skills-test-with-actions)
 3. AI in Actions: _REPO LINK 3_
 4. Publish to GitHub Packages: [_REPO LINK 4_](https://github.com/jamoliddinnormamatov/skills-publish-packages)
 
