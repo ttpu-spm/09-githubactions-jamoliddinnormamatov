@@ -32,7 +32,7 @@ _Here you should put the URL of your final repository after finishing the given 
 
 1. Hello GitHub Actions: [_REPO LINK 1_](https://github.com/jamoliddinnormamatov/skills-hello-github-actions)
 2. Test with Actions: [_REPO LINK 2_](https://github.com/jamoliddinnormamatov/skills-test-with-actions)
-3. AI in Actions: _REPO LINK 3_
+3. AI in Actions: [_REPO LINK 3_](https://github.com/jamoliddinnormamatov/skills-ai-in-actions)
 4. Publish to GitHub Packages: [_REPO LINK 4_](https://github.com/jamoliddinnormamatov/skills-publish-packages)
 
 
